@@ -1,0 +1,14 @@
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/obj/Debug/net8.0/Bibleoteksapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/obj/Debug/net8.0/Bibleoteksapp.AssemblyInfoInputs.cache
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/obj/Debug/net8.0/Bibleoteksapp.AssemblyInfo.cs
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/obj/Debug/net8.0/Bibleoteksapp.csproj.CoreCompileInputs.cache
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/bin/Debug/net8.0/Bibleoteksapp
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/bin/Debug/net8.0/Bibleoteksapp.deps.json
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/bin/Debug/net8.0/Bibleoteksapp.runtimeconfig.json
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/bin/Debug/net8.0/Bibleoteksapp.dll
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/bin/Debug/net8.0/Bibleoteksapp.pdb
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/obj/Debug/net8.0/Bibleoteksapp.dll
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/obj/Debug/net8.0/refint/Bibleoteksapp.dll
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/obj/Debug/net8.0/Bibleoteksapp.pdb
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/obj/Debug/net8.0/Bibleoteksapp.genruntimeconfig.cache
+/Users/shadeisroot/RiderProjects/Bibleoteksapp/Bibleoteksapp/obj/Debug/net8.0/ref/Bibleoteksapp.dll
